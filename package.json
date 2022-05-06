@@ -1,7 +1,7 @@
 {
-  "name": "virtual-keyboard",
+  "name": "Webpack basic template",
   "version": "1.0.0",
-  "description": "virtual-keyboard app",
+  "description": "The basic Webpack project template for a web app",
   "main": "index.js",
   "scripts": {
     "dev": "webpack --mode=development --node-env=development",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/katada93/virtual-keyboard.git"
+    "url": "git+https://github.com/katada93/webpack-basic-template.git"
   },
   "keywords": [],
   "author": "Muslim Tsokaev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/katada93/virtual-keyboard/issues"
+    "url": "https://github.com/katada93/webpack-basic-template/issues"
   },
-  "homepage": "https://github.com/katada93/virtual-keyboard#readme",
+  "homepage": "https://github.com/katada93/webpack-basic-template#readme",
   "devDependencies": {
     "css-loader": "^6.7.1",
     "html-webpack-plugin": "^5.5.0",
